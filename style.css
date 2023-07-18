@@ -107,6 +107,10 @@
     border-radius: 20px;
 }
 
+.subtext{
+
+}
+
 .third-section{
     height: 50vh;
     background-color: #e5e7eb;
@@ -129,4 +133,48 @@
     font-size: 18px;
     align-self: flex-end;
     padding-right:60px ;
+}
+
+.fourth-section{
+    height: 50vh;
+    background-color: white;
+    display: flex;
+    justify-items: center;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.blue-thingy{
+    background-color: #3882f6;
+    padding: 50px 300px;
+    display: flex;
+    flex-direction: row;
+    justify-items: center;
+    align-items: center;
+    justify-content: center;
+    color:white;
+    border-radius: 20px;
+    font-size: 18px;
+}
+
+.part-one{
+    font-size: 20px;
+    font-weight: 600;
+    padding-right: 30px;
+}
+
+.second-paragraph{
+    font-weight: 400;
+}
+
+
+.btn-sign{
+    background-color: #3882f6;
+    border: 2px solid #f9faf8;
+    color: #f9faf8;
+    padding: 15px 40px;
+    margin: 20px;
+    border-radius: 10px;
+    font-size: 18px;
 }
