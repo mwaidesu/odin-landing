@@ -178,3 +178,12 @@
     border-radius: 10px;
     font-size: 18px;
 }
+
+.footer{
+    height: 80px;
+    background-color: #e5e7eb;
+    display: flex;
+    justify-items: center;
+    align-items: center;
+    justify-content: center;
+}
