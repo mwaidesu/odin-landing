@@ -152,7 +152,7 @@
     flex-direction: row;
     justify-items: center;
     align-items: center;
-    justify-content: center;
+    justify-content: space-between;
     color:white;
     border-radius: 20px;
     font-size: 18px;

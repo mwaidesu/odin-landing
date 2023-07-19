@@ -4,4 +4,4 @@ function getCurrentDateAndTime(){
 }
 
 const dateDisplay = document.getElementById("current_date");
-dateDisplay.innerHTML = getCurrentDateAndTime()
+dateDisplay.textContent = getCurrentDateAndTime()
